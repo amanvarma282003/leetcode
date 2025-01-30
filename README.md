@@ -128,4 +128,8 @@ srm
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/amanvarma282003/leetcode/tree/master/0036-valid-sudoku) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/amanvarma282003/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
