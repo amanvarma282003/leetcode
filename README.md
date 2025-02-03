@@ -58,6 +58,7 @@ srm
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanvarma282003/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/amanvarma282003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amanvarma282003/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanvarma282003/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@ srm
 | [0238-product-of-array-except-self](https://github.com/amanvarma282003/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/amanvarma282003/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/amanvarma282003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanvarma282003/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +103,7 @@ srm
 | [0010-regular-expression-matching](https://github.com/amanvarma282003/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/amanvarma282003/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amanvarma282003/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanvarma282003/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
