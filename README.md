@@ -66,6 +66,7 @@ srm
 | [0033-search-in-rotated-sorted-array](https://github.com/amanvarma282003/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amanvarma282003/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/amanvarma282003/leetcode/tree/master/0036-valid-sudoku) |
+| [0238-product-of-array-except-self](https://github.com/amanvarma282003/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,4 +142,8 @@ srm
 | [1827-invalid-tweets](https://github.com/amanvarma282003/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/amanvarma282003/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/amanvarma282003/leetcode/tree/master/2087-confirmation-rate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/amanvarma282003/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
