@@ -50,6 +50,7 @@ srm
 | [0020-valid-parentheses](https://github.com/amanvarma282003/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amanvarma282003/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amanvarma282003/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/amanvarma282003/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@ srm
 | [0016-3sum-closest](https://github.com/amanvarma282003/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amanvarma282003/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amanvarma282003/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0151-reverse-words-in-a-string](https://github.com/amanvarma282003/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
