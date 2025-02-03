@@ -55,6 +55,7 @@ srm
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanvarma282003/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/amanvarma282003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
@@ -68,12 +69,14 @@ srm
 | [0036-valid-sudoku](https://github.com/amanvarma282003/leetcode/tree/master/0036-valid-sudoku) |
 | [0238-product-of-array-except-self](https://github.com/amanvarma282003/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/amanvarma282003/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/amanvarma282003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amanvarma282003/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amanvarma282003/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amanvarma282003/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/amanvarma282003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,4 +151,5 @@ srm
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amanvarma282003/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/amanvarma282003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
