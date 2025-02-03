@@ -67,6 +67,7 @@ srm
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amanvarma282003/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/amanvarma282003/leetcode/tree/master/0036-valid-sudoku) |
 | [0238-product-of-array-except-self](https://github.com/amanvarma282003/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/amanvarma282003/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ srm
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amanvarma282003/leetcode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/amanvarma282003/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Trie
 |  |
 | ------- |
