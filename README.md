@@ -36,6 +36,7 @@ srm
 | [0013-roman-to-integer](https://github.com/amanvarma282003/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amanvarma282003/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/amanvarma282003/leetcode/tree/master/0036-valid-sudoku) |
+| [1319-unique-number-of-occurrences](https://github.com/amanvarma282003/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ srm
 | [0238-product-of-array-except-self](https://github.com/amanvarma282003/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/amanvarma282003/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/amanvarma282003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/amanvarma282003/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanvarma282003/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
